@@ -1,1 +1,3 @@
-# tether-L01
+# tether-L DApp:
+
+This dapp is built with learning and research purpose only.
