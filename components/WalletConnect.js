@@ -13,7 +13,7 @@ const WalletConnect = () => {
   const [pro,setPro] = useState(null);
   const [iniPro,setIniPro] = useState(false);
     
-const projectId = 'e54c8a3186e35535c6e5f28e53cbdc1c';
+const projectId = 'PROJECT ID';
 
 const providerMetadata = {
   name: 'Tether Dapp',
